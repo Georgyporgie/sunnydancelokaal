@@ -1,0 +1,29 @@
+
+
+body {
+ background-color:transparent;
+ 
+}
+
+
+
+
+
+h1 { font-weight: 700;
+
+}
+
+
+
+
+
+
+
+button {
+background-color: black;
+height: 60px;
+width: 60px;
+border-radius: 50px;
+color: white;
+margin-right: 20px;margin-left: 20px;
+}
