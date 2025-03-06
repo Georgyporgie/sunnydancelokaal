@@ -97,8 +97,8 @@ let track_list = [
 
 {
   
-    name: " Lfo ",
-    artist: "Lfo ",
+    name: " LFO (1991)",
+    artist: "LFO ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "https://sunnylounge01.netlify.app/Lfo - Lfo.mp3",
   },
@@ -2575,7 +2575,7 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
     },
@@ -2847,7 +2847,7 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
@@ -3830,11 +3830,9 @@ let track_list = [
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Sunny radio jingle1.mp3",
   },
-
-
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
@@ -4507,16 +4505,15 @@ let track_list = [
 
 
 
-
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
 
 
-}, 
+},
 
 
 
@@ -5489,12 +5486,9 @@ let track_list = [
     path: "muziek/jingles/Sunny radio jingle.mp3",
   },
 
-
-
-
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
@@ -6530,10 +6524,9 @@ let track_list = [
   },
 
 
-
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
@@ -8565,7 +8558,7 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
@@ -9798,7 +9791,7 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
@@ -10819,13 +10812,14 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
 
 
-}, 
+},
+
 
 
 
@@ -11560,10 +11554,13 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
-    },
+  
+
+
+},
 
 
 {
@@ -12036,13 +12033,14 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
 
 
 },
+
 
 
 
@@ -12844,11 +12842,9 @@ let track_list = [
   },
 
 
-
-
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
@@ -13694,15 +13690,9 @@ let track_list = [
 
 
 
-
-
-
-
-
-
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
@@ -14413,13 +14403,15 @@ let track_list = [
 
 
 
-
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
-    },
+  
+
+
+},
 
 
 
@@ -14985,14 +14977,13 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
 
 
-}, 
-
+},
 
 
 
@@ -17007,13 +16998,14 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
 
 
 },
+
 
 
 
@@ -17482,7 +17474,7 @@ let track_list = [
 
 {
     name: "Welcome!",
-    artist: "Purple Disco Machine",
+    artist: "Sunny Disco Machine",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/start the party.mp3",
   
