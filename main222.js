@@ -74,6 +74,15 @@ let track_list = [
 
 
 
+{
+  
+    name: "The Chime (1989) ",
+    artist: "Orbital",
+    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    path: "https://sunnylounge01.netlify.app/Orbital- The Chime.mp3",
+  },
+
+
 
 {
   
@@ -102,7 +111,6 @@ let track_list = [
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "https://sunnylounge01.netlify.app/Lfo - Lfo.mp3",
   },
-
 
 
 
@@ -13905,7 +13913,7 @@ let track_list = [
 
  {
     name: " Can You Handle It",
-    artist: "Sharon Redd ",
+    artist: "Sunny ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/time classic.mp3",
   
@@ -17758,7 +17766,7 @@ let track_list = [
 
 {
     name: "Classic",
-    artist: "Time",
+    artist: "Sunny",
    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/time classic.mp3",
   },
