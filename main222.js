@@ -1295,7 +1295,7 @@ let track_list = [
 
 {
     name: "  Give It To Me Baby ",
-    artist: "Rick James ",
+    artist: "Sunny James ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/discjockeys/micofoon Rick James.mp3",
   },
@@ -1478,11 +1478,12 @@ let track_list = [
 
 
 
+
 {
-    name: "  Sunny Danceradio",
-    artist: "return classics",
+    name: "Just For You",
+    artist: "Sunny Ship",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/back in time jingle.mp3",
+    path: "muziek/jingles/return classics.mp3",
   },
 
 
@@ -5894,21 +5895,7 @@ let track_list = [
 
 
 
-{
-    name: "     Human League  ",
-    artist: "Human",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/discjockeys/microfoon Human - Human League.mp3",
-  },
 
-
-
-{
-    name: "     Human League  ",
-    artist: "Human",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "https://sunnydanceoldies05.netlify.app/Human - Human League.mp3",
-  },
 
 
 {
@@ -7090,11 +7077,12 @@ let track_list = [
 
 
 {
-    name: "  Sunny Danceradio",
-    artist: "return classics",
+    name: "Just For You",
+    artist: "Sunny Ship",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/back in time jingle.mp3",
+    path: "muziek/jingles/return classics.mp3",
   },
+
 
 {
     name: " Dancer (1979) ",
@@ -8212,11 +8200,12 @@ let track_list = [
 
 
 {
-    name: "  Sunny Danceradio",
-    artist: "return classics",
+    name: "Just For You",
+    artist: "Sunny Ship",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/back in time jingle.mp3",
+    path: "muziek/jingles/return classics.mp3",
   },
+
 
 
 {
@@ -8688,15 +8677,13 @@ let track_list = [
 
 
 
-
-
-
 {
-    name: "  Sunny Danceradio",
-    artist: "return classics",
+    name: "Just For You",
+    artist: "Sunny Ship",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/back in time jingle.mp3",
+    path: "muziek/jingles/return classics.mp3",
   },
+
 
 
 
@@ -14284,15 +14271,13 @@ let track_list = [
     path: "muziek/jingles/sunny dance jingle.mp3",
   },
 
-
-
-
 {
-    name: "  Sunny Danceradio",
-    artist: "return classics",
+    name: "Just For You",
+    artist: "Sunny Ship",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/back in time jingle.mp3",
+    path: "muziek/jingles/return classics.mp3",
   },
+
 
 
 {
