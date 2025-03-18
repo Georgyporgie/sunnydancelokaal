@@ -74,6 +74,37 @@ let track_list = [
 
 
 
+
+{
+  
+    name: " Like I like It",
+    artist: "Aurra ",
+    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    path: "https://sunnylounge01.netlify.app/Aurra - Like I like It.mp3",
+  },
+
+
+{
+  
+    name: " You Are My Melody",
+    artist: "Change ",
+    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    path: "https://sunnylounge01.netlify.app/Change - You Are My Melody.mp3",
+  },
+
+
+
+{
+  
+    name: "  Searchin'",
+    artist: "Hazel Dean ",
+    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    path: "https://sunnylounge01.netlify.app/Hazel Dean - Searchin'.mp3",
+  },
+
+
+
+
 {
   
     name: " Nouveau Disco 01 ",
