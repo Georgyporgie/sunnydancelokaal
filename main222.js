@@ -72,12 +72,41 @@ let track_list = [
   },
 
 
+{
+    name: "  Don't Call  Me Baby",
+    artist: "Madison Avenue  ",
+   image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    path: "https://sunnydanceoldies08.netlify.app/Madison Avenue - Don't Call  Me Baby.mp3",
+  },
+
+
+
+
+{
+    name: "  Rockit  ",
+    artist: "Herbie Hancock ",
+   image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    path: "https://sunnydanceoldies08.netlify.app/Herbie Hancock - Rockit.mp3",
+  },
+
+
+
+
+
+
+{
+    name: "  My Forbidden Lover ",
+    artist: "Tapps ",
+   image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    path: "https://sunnydanceoldies08.netlify.app/Tapps - My Forbidden Lover.mp3",
+  },
+
 
 
 
 {
   
-    name: " Like I like It",
+    name: " Like I like It (1985)",
     artist: "Aurra ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "https://sunnylounge01.netlify.app/Aurra - Like I like It.mp3",
@@ -86,7 +115,7 @@ let track_list = [
 
 {
   
-    name: " You Are My Melody",
+    name: " You Are My Melody (1984)",
     artist: "Change ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "https://sunnylounge01.netlify.app/Change - You Are My Melody.mp3",
@@ -96,12 +125,19 @@ let track_list = [
 
 {
   
-    name: "  Searchin'",
+    name: "  Searchin' (1983)",
     artist: "Hazel Dean ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "https://sunnylounge01.netlify.app/Hazel Dean - Searchin'.mp3",
   },
 
+{
+  
+    name: "  Thinkin' About Your Love ",
+    artist: "Skipworth & Turner ",
+    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    path: "https://sunnylounge01.netlify.app/Skipworth & Turner - Thinkin' about your love.mp3",
+  },
 
 
 
@@ -182,13 +218,6 @@ let track_list = [
     path: "muziek/discjockeys/Female dj2.mp3",
   },
 
-{
-  
-    name: "  Thinkin' About Your Love ",
-    artist: "Skipworth & Turner ",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "https://sunnylounge01.netlify.app/Skipworth & Turner - Thinkin' about your love.mp3",
-  },
 
 
 
@@ -215,14 +244,6 @@ let track_list = [
   },
 
 
-
-{
-  
-    name: "19  ",
-    artist: "Paul Hardcastle",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "https://sunnylounge01.netlify.app/19 - Paul Hardcastle.mp3",
-  },
 
 
 
@@ -3478,7 +3499,7 @@ let track_list = [
   },
 
 {
-    name: " Girls On My Mind ",
+    name: " Girls On My Mind (1985) ",
     artist: "Fatback ",
    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "https://sunnydanceoldies08.netlify.app/Fatback - Girls On My Mind.mp3",
@@ -3489,7 +3510,7 @@ let track_list = [
 
 
 {
-    name: " Backstrokin' ",
+    name: " Backstrokin'(1980) ",
     artist: "Fatback ",
    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "https://sunnydanceoldies08.netlify.app/Fatback - Backstrokin'.mp3",
@@ -14553,33 +14574,6 @@ let track_list = [
 
 
 
-
-
-
-
-{
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/Let op.mp3",
-  },
-
-
-
-
-
-
-
-
-
-
-
-{
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/Sunny radio jingle4.mp3",
-  },
 
 
 
