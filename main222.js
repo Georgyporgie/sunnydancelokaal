@@ -91,9 +91,10 @@ let track_list = [
 
 
 
+
 {
-    name: "Just For You",
-    artist: "Sunny Ship",
+    name: "The Weekend",
+    artist: "Michael Gray  ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Sunny radio snippet3.mp3",
   },
@@ -113,8 +114,8 @@ let track_list = [
     path: "https://sunnydancemusic07.netlify.app/Sophie And The Giants - Paradise.mp3",
   },
 {
-    name: "Just For You",
-    artist: "Sunny Ship",
+    name: "  Danger ",
+    artist: "Olivia Dean ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Sunny radio snippet.mp3",
   },
@@ -163,10 +164,11 @@ let track_list = [
 
 
 
- 
+
+
 {
-    name: "Just For You",
-    artist: "Sunny Ship",
+    name: "Nothing But You",
+    artist: "Paul Van Dyk",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/discjockeys/40 in jingle.mp3",
   },
@@ -174,10 +176,9 @@ let track_list = [
 
 
 
-
 {
-    name: "Just For You",
-    artist: "Sunny Ship",
+    name: "  Give It To Me Baby ",
+    artist: "Sunny Rick  ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/sunny ship/radio dj - just for you222.mp3",
   },
@@ -198,8 +199,8 @@ let track_list = [
 
 
 {
-    name: "Just For You",
-    artist: "Sunny Ship",
+    name: " Just An Illusion (12inch)",
+    artist: "Imagination ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/discjockeys/40 in jingle.mp3",
   },
@@ -217,8 +218,8 @@ let track_list = [
 
 
 {
-     name: "Welcome!",
-    artist: "Listen Live Sunny Dance radio",
+    name: "Baby",
+    artist: "Charli XCX",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Sunny radio jingle4.mp3",
   },
@@ -336,8 +337,8 @@ let track_list = [
 
 
 {
-     name: "Welcome!",
-    artist: "Listen Live Sunny Dance radio",
+    name: " I Can't Wait",
+    artist: "NU Shooz ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Let op.mp3",
   },
@@ -410,14 +411,6 @@ let track_list = [
 
 
 
-{
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/Let op.mp3",
-  },
-
-
 
 
 {
@@ -457,8 +450,8 @@ let track_list = [
 
 
 {
-    name: "Just For You",
-    artist: "Sunny Ship",
+    name: " Hit 'N Run Lover (12inch)",
+    artist: "Carol Jiani",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/sunny ship/radio dj - just for you.mp3",
   },
@@ -473,35 +466,6 @@ let track_list = [
 
 
 
-
-{
-    name: "Just For You",
-    artist: "Sunny Ship",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/sunny ship/radio dj - just for you222.mp3",
-  },
-
-
- 
-
-
-
-
-
-
-{
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/Sunny dance jingle.mp3",
-  },
-
-{
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/jingles/Let op.mp3",
-  },
 
 
 {
@@ -530,9 +494,11 @@ let track_list = [
     path: "https://sunnydanceoldies01.netlify.app/Michael Jackson- You are not alone.mp3",
   },
 
+
+
 {
-    name: "Just For You",
-    artist: "Sunny Ship",
+    name: " I Am The Drama  ",
+    artist: "Bebe Rexha  ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/sunny ship/radio dj - just for you22.mp3",
   },
@@ -566,20 +532,18 @@ let track_list = [
 
 
 
-
 {
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
+    name: " Flawless",
+    artist: "The Ones ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Sunny radio jingle4.mp3",
   },
 
 
 
-
 {
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
+    name: " Closer",
+    artist: "Saweetie ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Let op.mp3",
   },
@@ -587,8 +551,8 @@ let track_list = [
 
 
 {
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
+    name: " Sunglasses",
+    artist: "Heidi Klum ",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Sunny radio jingle.mp3",
   },
@@ -604,8 +568,8 @@ let track_list = [
 
 
 {
-    name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio ",
+    name: "Mesmerized (12inch)",
+    artist: "Freemasons",
     image: "https://i.ibb.co/nMW5jgc/jazzdivas.png",
     path: "muziek/discjockeys/Female dj5.mp3",
   },
@@ -627,8 +591,8 @@ let track_list = [
   },
 
 {
-    name: "Just For You",
-    artist: "Sunny Ship",
+    name: "Little L",
+    artist: "Jamiroquaii",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/sunny ship/radio dj - just for you.mp3",
   },
@@ -665,20 +629,13 @@ let track_list = [
     path: "https://sunnydanceoldies01.netlify.app/Carleen Anderson - Stories.mp3",
   },
 
-
 {
-     name: "Welcome!",
-    artist: "Listen Live Sunny Danceradio",
+    name: "Touch Me ",
+    artist: "Rui Da Silva (2007)",
     image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
     path: "muziek/jingles/Sunny radio jingle4.mp3",
   },
  
-{
-    name: "Just For You",
-    artist: "Sunny Ship",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "muziek/sunny ship/radio dj - just for you.mp3",
-  },
 
 
 
